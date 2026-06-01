@@ -1,0 +1,14 @@
+# Ansys temporary and output files
+*.log
+*.err
+*.db
+*.rst
+*.rth
+*.page
+*.mntr
+*.grph
+*.esav
+*.full
+*.osav
+*._ba
+*.stat
